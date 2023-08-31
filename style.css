@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#main{
+    margin-top:40px;
+    text-align: center;
+    background-color: rgb(228, 187, 126);
+    height: fit-content;
+    border-radius: 15px;
+}
+#main2{
+    margin-top:40px;
+    display: flex;
+   justify-content: center;
+}
+#main3{
+    margin-top:40px;
+    text-align: center;
+    font-size: 25px;
+    font-style: italic;
+}
+#search{
+    width:100px;
+    margin-left: 20px;
+}
+#search:hover{
+    transform: scale(1.05);
+}
+#country:hover{
+    transform: scale(1.05);
+
+}
+#country{
+    width:50%;
+    font-size: 30px;
+    border-radius: 10px;
+}
